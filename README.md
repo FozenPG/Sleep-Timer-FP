@@ -1,2 +1,2 @@
 # Sleep Timer FP
- Simple sleep timer works on windows, linux and macos
+Um sleep timer que funciona em windows, linux e macos
